@@ -2,3 +2,4 @@
 Display current directory contents, including hidden files 
 Display current directory contents.
 script that creates a directory named 
+Move the file
