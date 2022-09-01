@@ -9,3 +9,4 @@ changes the working directory to the previous one
 lists all files
 Create a symbolic link to
 Script Copies HTML
+script that moves all files beginning with an uppercase letter to the director
