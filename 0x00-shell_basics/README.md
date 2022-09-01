@@ -7,4 +7,3 @@ Move the file
 Delete the directory
 changes the working directory to the previous one
 lists all files
-lists all files
