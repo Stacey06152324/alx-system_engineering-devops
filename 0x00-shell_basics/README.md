@@ -5,3 +5,4 @@ script that creates a directory named
 Move the file
 Move the file
 Delete the directory
+changes the working directory to the previous one
