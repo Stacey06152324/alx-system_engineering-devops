@@ -1,1 +1,1 @@
-execute
+add execute to many
