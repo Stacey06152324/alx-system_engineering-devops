@@ -1,2 +1,2 @@
 #!/bin/bash
-chown g shcool hello
+chgrp shcool hello
