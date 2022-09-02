@@ -1,2 +1,2 @@
-#!bin/bash
-chmod -R u+X a=X
+#!/bin/bash
+chmod -R a+X
