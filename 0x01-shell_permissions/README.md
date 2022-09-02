@@ -1,1 +1,1 @@
-add execute to many
+this is for everyone
