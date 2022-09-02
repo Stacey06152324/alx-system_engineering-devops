@@ -1,2 +1,2 @@
 #!/bin/bash
- chmod g=w
+ sudo chmod -R u+X g+X
