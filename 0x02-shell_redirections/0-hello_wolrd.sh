@@ -1,2 +1,3 @@
-0-hello_wolrd.sh
-README.md
+#!/bin/bash
+
+echo "Hello,World" >> hello_world.txt
