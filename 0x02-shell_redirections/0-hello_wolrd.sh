@@ -1,3 +1,2 @@
-#!/bin/bash
-
-echo "Hello,World"
+0-hello_wolrd.sh
+README.md
