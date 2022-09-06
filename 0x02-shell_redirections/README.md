@@ -1,1 +1,1 @@
-a shell script that creates a file named exactly
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
