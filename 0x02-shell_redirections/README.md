@@ -1,1 +1,1 @@
-Replace all characters A and c from input to Z and e respectively.
+Write a command that finds all empty files and directories in the current directory and all sub-directories.
