@@ -1,1 +1,1 @@
-a script that creates a new local variable.
+a script that displays the result of BREATH to the power LOVE
